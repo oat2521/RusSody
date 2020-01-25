@@ -1,0 +1,12 @@
+http://124.36.11.112/webdav/Multiple.php
+http://203.77.230.147/webdav/UDP.php
+http://124.36.11.112/webdav/UDP.php
+http://188.168.92.99/webdav/UDP.php
+http://188.168.92.99/webdav/Multiple.php
+http://27.123.3.146/webdav/Multiple.php
+http://175.28.12.177/webdav/UDP.php
+http://175.28.12.177/webdav/Multiple.php
+http://27.123.3.146/webdav/UDP.php
+http://200.69.181.42/webdav/UDP.php
+http://200.69.181.42/webdav/Multiple.php
+http://125.75.128.204/webdav/Multiple.php
